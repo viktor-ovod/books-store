@@ -1,3 +1,11 @@
+# ограничиваем добавление утильных папок в индекс
+/.idea/
+/.gradle/
+/gradle/
+/build/
+/build/classes/java/main/
+/.DS_Store/
+
 # Compiled class file
 *.class
 
